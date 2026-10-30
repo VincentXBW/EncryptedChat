@@ -8,4 +8,4 @@ Run the program and input private key
 Download *WINDOWS* .exe and run
 
 ### THIS IS A BASIC REPO AND MAY CONTAIN BUGS!
-### Also currently only works over local host so not fully implemented
+### Also currently only works over local host but has the ability to connect over internet, so not fully implemented
